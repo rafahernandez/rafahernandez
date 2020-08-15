@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father and Developer!
 
-- 🚗 I’m currently working in [Karbook][karbook]!
+- 🚗 I’m currently working at [Karbook][karbook]!
 - 🌱 I’m currently learning Alpine.js
 - 🥅 2020 Goals
 - [ ] Contribute more to Open Source projects
@@ -41,4 +41,4 @@
 [website]: https://www.rafaelhernandez.xyz/
 [twitter]: https://twitter.com/joraheta
 [linkedin]: https://www.linkedin.com/in/jose-rafael-hernandez-tadeo/
-[karbook]: https://codeSTACKr.com
+[karbook]: https://karbook.com/es-mx
